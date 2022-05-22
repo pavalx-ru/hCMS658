@@ -8,7 +8,7 @@ declare(strict_types=1);
 
 namespace App\Controller;
 
-use core\Application\BaseController;
+use App\core\Application\BaseController;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
 

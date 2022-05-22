@@ -4,7 +4,7 @@
  */
 declare(strict_types=1);
 
-namespace core\Application;
+namespace App\core\Application;
 
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 
